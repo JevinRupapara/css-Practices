@@ -1,0 +1,41 @@
+div.one{
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: rgb(50, 156, 98);
+}
+div.two{
+    border: 1px solid black;
+    margin: 25px 50px 75px 100px;
+    background-color: lightcoral
+}
+div.three{
+    border: 1px solid black;
+    margin: 25px 50px 75px;
+    background-color: lightseagreen
+}
+div.four{
+    border: 1px solid black;
+    margin: 25px 50px;
+    background-color: maroon;
+}
+div.five{
+    border: 1px solid black;
+    margin: 25px;
+    background-color: rgb(218, 103, 198);
+}
+div.six{
+    width: 300px;
+    margine: auto;
+    border: 1px solid red;
+}
+div.seven{
+    border: 1px solid red;
+    margin-left: 100px;
+    background-color: yellow;
+}
+p.eight{
+    margin-left: inherit;
+}
